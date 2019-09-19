@@ -5,7 +5,7 @@ description: "My first blog post."
 categories: ["blog"]
 displayInMenu: true
 displayInList: true
-draft: true
+draft: false
 resources:
 - name: featuredImage
   src: "hello-world.png"
