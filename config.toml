@@ -1,0 +1,12 @@
+baseurl = "https://eddex.github.io"
+title = "the eddex blog"
+author = "eddex"
+canonifyurls = true
+paginate = 10
+theme = "aether"
+enableEmoji = true
+
+[params]
+brand = "e d d e x"
+description = "the eddex blog for things eddex does"
+bgimg = "img/twirl.png"
