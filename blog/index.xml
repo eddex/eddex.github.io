@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs - the eddex blog</title>
+    <link>https://eddex.github.io/blog/</link>
+    <description>Recent content in Blogs on the eddex blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 19 Sep 2019 22:08:48 +0200</lastBuildDate>
+    
+        <atom:link href="https://eddex.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://eddex.github.io/blog/hello-world/</link>
+      <pubDate>Thu, 19 Sep 2019 22:08:48 +0200</pubDate>
+      
+      <guid>https://eddex.github.io/blog/hello-world/</guid>
+      <description>My first blog post.</description>
+    </item>
+  </channel>
+</rss>

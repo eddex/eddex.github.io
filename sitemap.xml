@@ -3,15 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eddex.github.io/categories/</loc>
+    <loc>https://eddex.github.io/categories/blog/</loc>
+    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eddex.github.io/tags/</loc>
+    <loc>https://eddex.github.io/blog/</loc>
+    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddex.github.io/categories/</loc>
+    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddex.github.io/blog/hello-world/</loc>
+    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://eddex.github.io/</loc>
+    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddex.github.io/tags/</loc>
   </url>
   
 </urlset>
