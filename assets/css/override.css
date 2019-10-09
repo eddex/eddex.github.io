@@ -1,0 +1,15 @@
+:root {
+    --text-color-light: #ddd;
+}
+
+.list-header-title {
+    color: var(--text-color-light);
+}
+
+.hamburger-menu button span {
+    background-color: var(--text-color-light);
+}
+
+.nav-header a {
+    color: var(--text-color-light);
+}
