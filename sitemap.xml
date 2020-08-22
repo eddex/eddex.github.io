@@ -3,28 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eddex.github.io/categories/blog/</loc>
-    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eddex.github.io/blog/</loc>
-    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eddex.github.io/categories/</loc>
-    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
+    <lastmod>2018-09-16T12:00:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://eddex.github.io/blog/hello-world/</loc>
-    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
+    <loc>https://eddex.github.io/categories/portfolio/</loc>
+    <lastmod>2018-09-16T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddex.github.io/portfolio/</loc>
+    <lastmod>2018-09-16T12:00:00+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://eddex.github.io/</loc>
-    <lastmod>2019-09-19T22:08:48+02:00</lastmod>
+    <lastmod>2018-09-16T12:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eddex.github.io/portfolio/vr-marble-track-builder/</loc>
+    <lastmod>2018-09-16T12:00:00+02:00</lastmod>
   </url>
   
   <url>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="" dir="ltr">
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>VR Marble Track Builder &middot; the eddex blog</title>
+  <meta name="description" content="Creating the marble track of your dreams in VR!" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.css" integrity="sha384-9eLZqc9ds8eNjO3TmqPeYcDj8n+Qfa4nuSiGYa6DjLNcv9BtN69ZIulL9+8CqC9Y" crossorigin="anonymous">
+  
+  
+  
+  
+  
+  <link href="https://eddex.github.io/css/concated.min.css" rel="stylesheet">
+  
+  <style>
+    body {
+      background: #ecedef url("https://eddex.github.io/img/twirl.png") repeat;
+    }
+  </style>
+</head>
+
+  <body class="single-body">
+    <nav class="nav-bar side-padding">
+  <h1 class="nav-header"><a href="https://eddex.github.io" class="nav-text">e d d e x</a></h1>
+  <div class="hamburger-menu">
+    <button onclick="hamburgerMenuPressed.call(this)" aria-haspopup="true" aria-expanded="false" aria-controls="menu" aria-label="Menu">
+      <span></span>
+      <span></span>
+    </button>
+    <ul id="menu" class="hamburger-menu-overlay">
+      <li><a href="https://eddex.github.io" class="hamburger-menu-overlay-link">Home</a></li>
+      <li><a href="https://eddex.github.io/categories/portfolio" class="hamburger-menu-overlay-link">Portfolio</a></li>
+      
+    </ul>
+  </div>
+</nav>
+
+    <main class="content side-text-padding">
+      <article class="post dropcase">
+        <header class="post-header">
+        	<h1 class="post-title">VR Marble Track Builder</h1>
+          <p class="post-date">Posted <time datetime="2018-09-16">Sep 16, 2018</time></p>
+        </header>
+        
+        <picture class="post-figure">
+          
+          
+          <source srcset="https://eddex.github.io/portfolio/vr-marble-track-builder/header_image_hu43d6c5ce60d5126afeba2fd11f7a201c_1357165_800x0_resize_lanczos_2.png">
+          <img src="https://eddex.github.io/portfolio/vr-marble-track-builder/header_image_hu43d6c5ce60d5126afeba2fd11f7a201c_1357165_800x0_resize_lanczos_2.png" alt="VR Marble Track Builder">
+        </picture>
+        
+        
+
+<p>This project is the first VR game I worked on, a virtual reality marble track builder. The team consisted of <a href="https://github.com/Jackle1996">Jackle1996</a>, <a href="https://github.com/BitFis">BitFis</a> and me.</p>
+
+<p>The concept is simple: There are different tubes that can be placed anywhere in the virtual space. The tubes can be connected to build a long pipeline (aka. marble track). After the building process, a marble can be released into the pipeline to see if it will reach the end.</p>
+
+<h3 id="features">Features</h3>
+
+<p>The right hand is used to grab, move, rotate and place tubes. The left hand acts as an inventory with an endless amount of tubes and marbles. There are three different types of tubes. To delete a tube, it can be moved into the trash bin that&rsquo;s attached to the left hand.</p>
+
+<div style="width: 70%; margin: auto;">
+    <img src="menu.gif" />
+</div>
+
+<p>To indicate which tube is touched by the right hand, the tube will change to a pink color. When placing a tube near another tube, a green &ldquo;ghost tube&rdquo; indicates where the tube will be placed by the auto-attach feature. This feature ensures that the tubes are always connected perfectly.</p>
+
+<div style="width: 70%; margin: auto;">
+    <img src="ghosting.gif" />
+</div>
+
+<p>By grabbing the marble track with both hands, it can be moved and resized.</p>
+
+<div style="width: 70%; margin: auto;">
+    <img src="scaling_and_moving.gif" />
+</div>
+
+<p>To add some more juice, there are also some sound effects. WARNING! They are loud!</p>
+
+<iframe src="https://drive.google.com/file/d/1jxgNX_EVkiAA2BDBYlVkCULGdmngHveh/preview" width="100%" height="520"></iframe>
+
+      </article>
+      
+    </main>
+    <nav class="end-nav side-padding">
+      
+      <a ontouchstart="cardPressed.call(this)" ontouchend="cardReleased.call(this)" ontouchmove="cardReleased.call(this)" 
+  href="https://eddex.github.io" class="card home-card" style="background-image: url( https://eddex.github.io/img/grey-cloud.jpg )" rel="bookmark" >
+  Home
+</a>
+    </nav>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/highlight.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/katex.min.js" integrity="sha384-K3vbOmF2BtaVai+Qk37uypf7VrgBubhQreNQe9aGsz9lB63dIFiQVlJbr92dw2Lx" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.10.0/dist/contrib/auto-render.min.js" integrity="sha384-kmZOZB5ObwgQnS/DuDg6TScgOiWWBiVt0plIRkZCmE6rDZGrEOQeHM5PcHi+nyqe" crossorigin="anonymous"
+    onload="renderMathInElement(document.body);"></script>
+  
+  <script src="https://eddex.github.io/js/core.min.js"></script>
+<script>
+  hljs.initHighlightingOnLoad();
+</script>
+
+  </body>
+</html>

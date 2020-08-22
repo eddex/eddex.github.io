@@ -1,0 +1,20 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio - the eddex blog</title>
+    <link>https://eddex.github.io/categories/portfolio/</link>
+    <description>Recent content in portfolio on the eddex blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 16 Sep 2018 12:00:00 +0200</lastBuildDate>
+    
+        <atom:link href="https://eddex.github.io/categories/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>VR Marble Track Builder</title>
+      <link>https://eddex.github.io/portfolio/vr-marble-track-builder/</link>
+      <pubDate>Sun, 16 Sep 2018 12:00:00 +0200</pubDate>
+      
+      <guid>https://eddex.github.io/portfolio/vr-marble-track-builder/</guid>
+      <description>Creating the marble track of your dreams in VR!</description>
+    </item>
+  </channel>
+</rss>
